@@ -1,0 +1,15 @@
+{
+    "name": "labstack/labstack-php",
+    "description": "Official PHP client library for the LabStack REST API",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vishal Rana",
+            "email": "vr@labstack.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "~6.0"
+    }
+}
